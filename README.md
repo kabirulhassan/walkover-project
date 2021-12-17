@@ -7,7 +7,13 @@
 
 # Mockups
 
+
+
 # Colour Palette
+# Routes
+1. /-> Landing Page
+2. /index -> Redirect Long Url to Short Url
+3. /url -> Create short Url
 
 # Schema
 URL SCHEMA
