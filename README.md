@@ -12,6 +12,9 @@
 # Schema
 URL SCHEMA
     urlCode: String
+    
     longUrl: String
+    
     shortUrl: String
+    
     date: { type:String, default: Date.now}
