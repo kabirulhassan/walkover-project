@@ -69,7 +69,7 @@ URL SCHEMA
     
 # API
 
-Prefix: /api
+Prefix: /request/api.http
 
 Endpoints:
 
