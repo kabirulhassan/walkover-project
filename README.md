@@ -23,6 +23,7 @@ URL SCHEMA
 # API
 
 Prefix: /api
+
 Endpoints:
 get
 post
