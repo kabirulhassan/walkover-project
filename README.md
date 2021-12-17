@@ -11,6 +11,7 @@
 
 # Schema
 URL SCHEMA
+   
     urlCode: String
     
     longUrl: String
