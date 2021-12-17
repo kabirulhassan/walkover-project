@@ -11,8 +11,9 @@
 9. MVP feature
 
 # Running Locally
-1. 
-
+1. install mongoose, ejs, express,config, shortid, vald-url
+2. npm i nodemon
+3. npm run dev
 
 # TechStack
 1. Ejs
