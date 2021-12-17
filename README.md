@@ -10,6 +10,10 @@
 
 
 # Colour Palette
+
+   rgb(201, 201, 241);
+   #809ce2
+   
 # Routes
 1. /-> Landing Page
 2. /index -> Redirect Long Url to Short Url
@@ -62,13 +66,14 @@ Endpoints:
 
 # UI
 
-/views/index 
+Prefix: /views/index 
+
 Endpoints:
 
-set
-use
-post
-get
+  set
+  use
+  post
+  get
 
 # MVP Feature
 
