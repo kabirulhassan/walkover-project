@@ -56,8 +56,9 @@ URL SCHEMA
 Prefix: /api
 
 Endpoints:
-get
-post
+
+ get
+ post
 
 # UI
 
