@@ -1,4 +1,15 @@
 # walkover-project
+# Table Of Contents
+1. Running Locally
+2. TechStack
+3. MockUps
+4. Design
+5. Routes
+6. Schema
+7. API
+8. UI
+9. MVP feature
+
 # TechStack
 1. Ejs
 2. json
@@ -9,7 +20,8 @@
 
 
 
-# Colour Palette
+# Design
+Colour Palette
 
    rgb(201, 201, 241);
    #809ce2
