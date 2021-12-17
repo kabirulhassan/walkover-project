@@ -26,6 +26,31 @@ URL SCHEMA
     
     date: { type:String, default: Date.now}
     
+ SHORTURL SCHEMA
+ 
+       full:  
+       
+    type: String
+    
+    required: true
+  
+  short: 
+  
+    type: String
+    
+    required: true
+    
+    default: shortId.generate
+  
+  clicks: 
+  
+    type: Number
+    
+    required: true
+    
+    default: 0
+    
+    
 # API
 
 Prefix: /api
