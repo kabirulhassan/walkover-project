@@ -10,6 +10,10 @@
 8. UI
 9. MVP feature
 
+# Running Locally
+1. 
+
+
 # TechStack
 1. Ejs
 2. json
@@ -18,6 +22,14 @@
 
 # Mockups
 
+Landing Page
+  https://share.balsamiq.com/c/8SGHcFNAP9D5qWc5BSk87q.png
+  ![8SGHcFNAP9D5qWc5BSk87q (1)](https://user-images.githubusercontent.com/90218870/146599776-b4829f2f-fb27-4dd9-bbad-c5c7ff39a013.png)
+
+  
+Analytics Page
+  https://share.balsamiq.com/c/ozrZ9CXpcgkBYzNLoUXSKW.png
+  ![ozrZ9CXpcgkBYzNLoUXSKW](https://user-images.githubusercontent.com/90218870/146599792-5855f68d-1d33-4a33-9fad-ccd77ec683cc.png)
 
 
 # Design
