@@ -28,7 +28,7 @@ URL SCHEMA
     
  SHORTURL SCHEMA
  
-       full:  
+  full:  
        
     type: String
     
@@ -58,6 +58,16 @@ Prefix: /api
 Endpoints:
 get
 post
+
+# UI
+
+/views/index 
+Endpoints:
+
+set
+use
+post
+get
 
 # MVP Feature
 
