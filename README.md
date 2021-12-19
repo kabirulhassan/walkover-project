@@ -25,8 +25,7 @@
 
 Landing Page
   https://share.balsamiq.com/c/8SGHcFNAP9D5qWc5BSk87q.png
-  ![8SGHcFNAP9D5qWc5BSk87q (1)](https://user-images.githubusercontent.com/90218870/146599776-b4829f2f-fb27-4dd9-bbad-c5c7ff39a013.png)
-
+  ![8SGHcFNAP9D5qWc5BSk87q (1)](https://share.balsamiq.com/c/3zfANeQzckXzYunPGqjpPm.png)
   
 Analytics Page
   https://share.balsamiq.com/c/ozrZ9CXpcgkBYzNLoUXSKW.png
